@@ -12,8 +12,10 @@ LeetMatric is a web-based project built with **HTML, CSS, and JavaScript** that 
 - 📈 Dynamic content rendering using JavaScript.  
 
 ---
-
 ## 📂 Project Structure
+
+
+
 LeetMatric/
 │── index.html # Main HTML file
 │── style.css # Styling (CSS)
