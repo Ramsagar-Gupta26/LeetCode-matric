@@ -17,10 +17,10 @@ LeetMatric is a web-based project built with **HTML, CSS, and JavaScript** that 
 
 
 LeetMatric/
-│── index.html # Main HTML file
-│── style.css # Styling (CSS)
-│── script.js # Core logic (JavaScript + API calls)
-│── assets/ # Images, icons, etc.
+<br>
+│── index.html # Main HTML file<br>
+│── style.css # Styling (CSS)<br>
+│── script.js # Core logic (JavaScript + API calls)<br>
 │── README.md # Documentation
 
 
